@@ -73,4 +73,3 @@ class WikiMenuController extends AppController{
 		die("End");
 	}
 
-}
